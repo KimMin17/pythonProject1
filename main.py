@@ -19,3 +19,6 @@ print("Hello world update on Github branch")
 
 #updates in local master branch
 print("Hello world updates on local master branch")
+
+#updates on mainbranch of github
+print("Hello world updtaes 2 on github only")
